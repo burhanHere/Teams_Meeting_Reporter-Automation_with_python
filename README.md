@@ -1,6 +1,6 @@
 # Teams Meeting Reporter - Automation with Python
 
-![TMR Logo](tmr_logo.png)
+![TMR Logo](src/tmr_logo.png)
 
 ## Overview
 
